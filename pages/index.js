@@ -20,6 +20,7 @@ export default function Home() {
          <tr>
            <th>名前</th>
            <th>日時</th>
+           <th>Pundharee Puckdinukul</th>
          </tr>
          <tr>
            <td>柏 祐太郎</td>
